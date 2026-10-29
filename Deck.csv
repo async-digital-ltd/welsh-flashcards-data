@@ -1,0 +1,1001 @@
+id,rank,headword,meaning,word_class,region,packs
+1,2,bod,to be,verb,,core
+2,15,cael,"to get, to receive",verb,,core
+3,20,gwneud,"to do, to make",verb,,core
+4,23,mynd,"to go, to become",verb,,core
+5,28,da,"good, well",adj,,core
+6,29,ie,"yes, aye",adv,,core
+7,30,dod,"to come, to become",verb,,core
+8,33,Cymraeg,"Welsh, the Welsh language",noun-f,,core
+9,39,mawr,"large, big",adj,,core
+10,42,gweld,to see,verb,,core
+11,44,dim,"nothing, anything",noun-m,,core
+12,46,dweud,"to say, to tell",verb,,core
+13,47,gallu,"to be able to, can",verb,south,core
+14,51,yma,"here, this",adv,,core
+15,53,rhoi,"to give, to put",verb,,core
+16,54,hefyd,"also, too",adv,,core
+17,55,arall,"other, another",adj,,core
+18,56,yna,"there, then",adv,,core
+19,60,peth,"thing, object",noun-m,,core
+20,61,newydd,new,adj,,core
+21,62,pobl,"people, public",noun-f,,core
+22,63,felly,"so, thus",adv,,core
+23,65,rhan,"part, section",noun-f,,core
+24,66,gwaith,"work, labour",noun-mf,,core
+25,67,blwyddyn,year,noun-f,,core
+26,68,iaith,language,noun-f,,core
+27,69,iawn,very,adv,,core
+28,70,bach,"small, little",adj,,core
+29,76,plentyn,child,noun-m,,core
+30,77,ysgol,"school, ladder",noun-f,,core
+31,78,byd,world,noun-m,,core
+32,82,dydd,"day, daytime",noun-m,,core
+33,83,defnyddio,"to use, to make use of",verb,,core
+34,84,rhaid,"must, necessity",noun-m,,core
+35,90,meddwl,"to think, to mean",verb,,core
+36,92,wedyn,"afterwards, next",adv,,core
+37,98,tŷ,house,noun-m,,core
+38,99,dyna,"there is, there's",adv,,core
+39,103,mor,"so, as",adv,,core
+40,104,angen,"need, necessity",noun-m,,core
+41,105,gwybod,"to know, to have knowledge of",verb,,core
+42,106,amser,time,noun-m,,core
+43,107,ffordd,"way, road",noun-f,,core
+44,110,enw,"name, noun",noun-m,,core
+45,112,dyma,"here is, here are",adv,,core
+46,113,siarad,"to speak, to talk",verb,,core
+47,114,pen,"head, chief",noun-m,,core
+48,115,edrych,to look,verb,,core
+49,116,lle,"place, location",noun-m,,core
+50,117,agos,"near, close",adj,,core
+51,119,plaid,party,noun-f,,core
+52,121,mis,month,noun-m,,core
+53,124,gweithio,to work,verb,,core
+54,125,tro,"turn, time",noun-m,,core
+55,126,llyfr,book,noun-m,,core
+56,127,cynnwys,"content, capacity",noun-m,,core
+57,128,codi,"to get up, to rise",verb,,core
+58,130,cwrs,course,noun-m,,core
+59,131,rhaglen,"program, programme",noun-f,,core
+60,132,dysgu,"to learn, to teach",verb,,core
+61,133,diolch,thanks,noun-m,,core
+62,134,aelod,member,noun-m,,core
+63,136,nawr,"now, soon",adv,south,core
+64,137,eto,"again, yet",adv,,core
+65,139,gair,word,noun-m,,core
+66,140,de,"south, right",noun-mf,,core
+67,141,hen,"old, aged",adj,,core
+68,142,cyntaf,first,adj,,core
+69,143,oed,"age, years old",noun-m,,core
+70,144,llywodraeth,government,noun-f,,core
+71,145,gofyn,to ask,verb,,core
+72,146,gwybodaeth,"information, knowledge",noun-f,,core
+73,147,cyfle,"chance, opportunity",noun-m,,core
+74,148,byw,to live,verb,,core
+75,149,darllen,to read,verb,,core
+76,150,hanes,"history, chronicle",noun-m,,core
+77,151,gwahanol,different,adj,,core
+78,153,cofio,"to remember, to remind",verb,,core
+79,154,heddiw,today,adv,,core
+80,155,hyd,length,noun-m,,core
+81,156,allan,"out, outbound",adv,,core
+82,157,dal,"to catch, to capture",verb,,core
+83,158,llun,"picture, photo",noun-m,,core
+84,160,man,"place, location",noun-mf,,core
+85,161,diwrnod,day,noun-m,,core
+86,162,rhyw,"kind, sort",noun-mf,,core
+87,163,gwasanaeth,service,noun-m,,core
+88,164,gwlad,"country, nation",noun-f,,core
+89,165,clywed,to hear,verb,,core
+90,166,Saesneg,English,noun-f,,core
+91,167,cyfnod,"era, period",noun-m,,core
+92,168,pam,why,adv,,core
+93,169,cymryd,"to take, to accept",verb,,core
+94,170,ymlaen,"forward, ahead",adv,,core
+95,171,digwydd,"to happen, to occur",verb,,core
+96,173,bywyd,"life, existence",noun-m,,core
+97,174,creu,to create,verb,,core
+98,175,cig,meat,noun-m,,core
+99,176,nifer,"number, quantity",noun-mf,,core
+100,181,newid,"to change, to become different",verb,,core
+101,182,gadael,"to leave, to depart",verb,,core
+102,184,gwefan,website,noun-mf,,core
+103,186,newyddion,news,noun-pl,,core
+104,187,wythnos,week,noun-f,,core
+105,192,cadw,"to keep, to book",verb,,core
+106,193,teulu,family,noun-m,,core
+107,194,dangos,to show,verb,,core
+108,196,cwmni,"company, companionship",noun-m,,core
+109,197,meddwl,"mind, thought",noun-m,,core
+110,198,ifanc,"young, juvenile",adj,,core
+111,201,pryd,"time, meal",noun-m,,core
+112,202,pwysig,"important, weighty",adj,,core
+113,203,llawn,"full, abounding",adj,,core
+114,204,tu,side,noun-m,,core
+115,205,arian,"money, silver",noun-m,,core
+116,206,cynnal,"to support, to hold",verb,,core
+117,207,diwedd,"end, ending",noun-m,,core
+118,208,dechrau,"start, beginning",noun-m,,core
+119,209,arbennig,special,adj,,core
+120,210,ardal,"area, district",noun-f,,core
+121,211,prif,"principal, prime",adj,,core
+122,212,cynulliad,"assembly, gathering",noun-m,,core
+123,213,medd,"to says, to said",verb,,core
+124,215,cynllun,"plan, outline",noun-m,,core
+125,219,credu,"to believe, to have faith in",verb,,core
+126,221,stori,"story, tale",noun-f,,core
+127,222,dilyn,"to follow, to pursue",verb,,core
+128,223,derbyn,"to receive, to accept",verb,,core
+129,224,lleol,local,adj,,core
+130,226,gallu,"ability, might",noun-m,,core
+131,227,mam,mother,noun-f,,core
+132,228,cenedlaethol,national,adj,,core
+133,229,teimlo,"to feel, to touch",verb,,core
+134,230,jyst,just,adv,,core
+135,232,syniad,"idea, thought",noun-m,,core
+136,234,iawn,"right, correct",adj,,core
+137,235,taith,"journey, trip",noun-f,,core
+138,239,merch,"girl, maiden",noun-f,,core
+139,240,cyngor,"advice, council",noun-m,,core
+140,241,tynnu,"to pull, to draw",verb,,core
+141,242,troi,"to turn, to bend",verb,,core
+142,243,cyrraedd,to arrive,verb,,core
+143,245,blaen,front,noun-m,,core
+144,246,cyhoeddi,"to announce, to make known",verb,,core
+145,247,ceisio,"to seek, to search for",verb,,core
+146,249,rhywbeth,something,noun-m,,core
+147,250,siŵr,"sure, certain",adj,,core
+148,251,tân,fire,noun-m,,core
+149,252,nos,"night, evening",noun-f,,core
+150,253,dechrau,"to begin, to start",verb,,core
+151,254,chwilio,"to search, to look for",verb,,core
+152,255,rŵan,now,adv,north,core
+153,256,bwyd,food,noun-m,,core
+154,257,ffrind,friend,noun-m,,core
+155,260,cyflwyno,"to present, to offer",verb,,core
+156,261,cysylltu,"to connect, to contact",verb,,core
+157,263,helpu,to help,verb,,core
+158,264,llaw,hand,noun-f,,core
+159,265,dyn,"man, person",noun-m,,core
+160,266,mudiad,"movement, organization",noun-m,,core
+161,267,sicrhau,"to ensure, to make certain",verb,,core
+162,268,tîm,team,noun-m,,core
+163,269,polisi,policy,noun-m,,core
+164,270,symud,to move,verb,,core
+165,271,eglwys,church,noun-f,,core
+166,272,busnes,"business, affairs",noun-m,,core
+167,273,unrhyw,any,adj,,core
+168,274,awr,hour,noun-f,,core
+169,277,sŵn,"sound, noise",noun-m,,core
+170,278,sylw,"attention, focus",noun-m,,core
+171,279,maes,"field, pitch",noun-m,,core
+172,280,cyfrwng,"medium, media",noun-m,,core
+173,281,meithrin,"to nurture, to foster",verb,,core
+174,282,hoffi,to like,verb,south,core
+175,283,oen,lamb,noun-m,,core
+176,284,eisiau,"want, need",noun-m,,core
+177,285,datblygu,to develop,verb,,core
+178,286,diweddar,"recent, late",adj,,core
+179,288,tebyg,"alike, similar",adj,,core
+180,289,efallai,"perhaps, maybe",adv,,core
+181,290,enghraifft,example,noun-f,,core
+182,291,cerddoriaeth,music,noun-f,,core
+183,292,addysg,education,noun-f,,core
+184,293,hanner,half,noun-m,,core
+185,294,data,data,noun-m,,core
+186,295,aros,"to wait, to stay",verb,,core
+187,296,unig,"only, lonely",adj,,core
+188,297,hawl,"right, claim",noun-mf,,core
+189,298,cwestiwn,"question, inquiry",noun-m,,core
+190,299,cyfres,series,noun-f,,core
+191,301,bore,morning,noun-m,,core
+192,304,rhywun,someone,noun-m,,core
+193,307,deall,"to understand, to comprehend",verb,,core
+194,308,amlwg,"obvious, evident",adj,,core
+195,310,cynnig,"offer, tender",noun-m,,core
+196,311,eisteddfod,eisteddfod,noun-f,,core
+197,312,iechyd,health,noun-m,,core
+198,313,cofnod,"record, entry",noun-m,,core
+199,316,peidio,"to cease, to stop",verb,,core
+200,317,cyfarfod,meeting,noun-m,,core
+201,319,rhannu,"to divide, to split",verb,,core
+202,320,digon,"enough, plenty",noun-m,,core
+203,321,digwyddiad,"event, happening",noun-m,,core
+204,323,cymdeithas,"society, association",noun-f,,core
+205,324,duw,god,noun-m,,core
+206,325,canol,"centre, middle",noun-m,,core
+207,326,dewis,choice,noun-m,,core
+208,327,sir,"county, shire",noun-f,,core
+209,328,prosiect,project,noun-m,,core
+210,329,hir,long,adj,,core
+211,330,golygu,"to mean, to signify",verb,,core
+212,332,profiad,"experience, trial",noun-m,,core
+213,333,cartref,home,noun-m,,core
+214,334,cefnogi,"to support, to encourage",verb,,core
+215,335,gogledd,"north, North Wales",noun-m,,core
+216,336,problem,problem,noun-f,,core
+217,337,colli,"to lose, to misplace",verb,,core
+218,338,grŵp,group,noun-m,,core
+219,339,ystyried,to consider,verb,,core
+220,340,ymchwil,research,noun-mf,,core
+221,341,drwg,"bad, evil",adj,,core
+222,342,sgwrs,conversation,noun-f,,core
+223,343,ymateb,"reaction, response",noun-m,,core
+224,344,gêm,"game, contest",noun-f,,core
+225,345,parod,"ready, ready-made",adj,,core
+226,346,papur,paper,noun-m,,core
+227,348,anodd,difficult,adj,,core
+228,349,aneglur,"unclear, obscure",adj,,core
+229,351,ysgrifennu,to write,verb,,core
+230,352,cymorth,"help, assistance",noun-m,,core
+231,354,pob,"each, every",adj,,core
+232,355,mwynhau,to enjoy,verb,,core
+233,356,medru,"to be able to, can",verb,north,core
+234,357,clwb,club,noun-m,,core
+235,358,prifysgol,university,noun-f,,core
+236,359,nodi,to note,verb,,core
+237,360,dosbarth,"class, grade",noun-m,,core
+238,361,llawr,"floor, ground",noun-m,,core
+239,362,hwyl,"fun, mood",noun-f,,core
+240,363,cymuned,community,noun-f,,core
+241,364,canlyniad,"result, consequence",noun-m,,core
+242,365,popeth,everything,noun-m,,core
+243,366,ateb,"answer, response",noun-m,,core
+244,367,gofal,"care, charge",noun-m,,core
+245,368,diwethaf,"last, final",adj,,core
+246,369,talu,to pay,verb,,core
+247,370,llais,voice,noun-m,,core
+248,371,cymaint,"as much, as many",adj,,core
+249,372,parhau,"to continue, to endure",verb,,core
+250,373,swydd,"job, office",noun-f,,core
+251,374,rhifyn,"issue, edition",noun-m,,core
+252,375,torri,"to break, to fracture",verb,,core
+253,376,cyffredinol,general,adj,,core
+254,377,canolfan,centre,noun-mf,,core
+255,378,mater,"matter, affair",noun-m,,core
+256,379,ochr,side,noun-mf,,core
+257,380,rhestr,list,noun-f,,core
+258,381,cefndir,background,noun-m,,core
+259,382,dyfodol,future,noun-m,,core
+260,383,unwaith,"once, once upon a time",adv,,core
+261,384,cefn,"back, rear",noun-m,,core
+262,385,Sul,Sunday,noun-m,,core
+263,386,tad,father,noun-m,,core
+264,387,gwych,"great, excellent",adj,,core
+265,388,munud,minute,noun-mf,,core
+266,389,olaf,"last, final",adj,,core
+267,390,adroddiad,"report, account",noun-m,,core
+268,391,gŵyl,"festival, feast",noun-f,,core
+269,392,trio,to try,verb,,core
+270,394,arwain,"to lead, to guide",verb,,core
+271,395,cerdded,to walk,verb,,core
+272,396,rheswm,"reason, cause",noun-m,,core
+273,397,tipyn,"bit, small amount",noun-m,,core
+274,398,rhyfel,"war, warfare",noun-mf,,core
+275,400,trefnu,"to arrange, to organise",verb,,core
+276,401,siop,shop,noun-f,,core
+277,402,person,person,noun-m,,core
+278,403,Cymreig,"Welsh, of Wales or the Welsh culture",adj,,core
+279,404,bwrdd,"table, board",noun-m,,core
+280,405,drws,"door, doorway",noun-m,,core
+281,406,agor,"to open, to make open",verb,,core
+282,407,pa,which,adv,,core
+283,408,tir,land,noun-m,,core
+284,409,blog,blog,noun-m,,core
+285,410,arfer,"custom, practice",noun-mf,,core
+286,411,gweinidog,minister,noun-m,,core
+287,415,gobeithio,to hope,verb,,core
+288,416,prynu,to buy,verb,,core
+289,417,penderfynu,"to decide, to resolve",verb,,core
+290,418,math,"kind, sort",noun-mf,,core
+291,419,tywydd,weather,noun-m,,core
+292,420,ymuno,"to join, to join in",verb,,core
+293,421,cymdeithasol,"social, sociable",adj,,core
+294,422,sefydlu,to establish,verb,,core
+295,423,canrif,century,noun-f,,core
+296,424,cwbl,"whole, entirety",noun-m,,core
+297,425,testun,"text, subject",noun-m,,core
+298,426,pell,"far, distant",adj,,core
+299,427,erioed,"ever, never",adv,,core
+300,428,e-bost,email,noun-m,,core
+301,429,Mai,May,noun-m,,core
+302,430,barn,"opinion, view",noun-f,,core
+303,431,pwyllgor,committee,noun-m,,core
+304,432,ymweld,to visit,verb,,core
+305,433,Nadolig,Christmas,noun-m,,core
+306,435,fyny,"up, upwards",adv,north,core
+307,436,cam,"step, pace",noun-m,,core
+308,437,cyfeiriad,"address, direction",noun-m,,core
+309,439,neges,"message, errand",noun-f,,core
+310,440,gosod,"to put, to set",verb,,core
+311,441,diddordeb,"interest, attention",noun-m,,core
+312,442,darn,"piece, fragment",noun-m,,core
+313,443,adnabod,to recognize,verb,,core
+314,444,swyddog,"officer, official",noun-m,,core
+315,445,galw,to call,verb,,core
+316,446,bron,almost,adv,,core
+317,447,dŵr,water,noun-m,,core
+318,448,cynhyrchu,to produce,verb,,core
+319,449,rhy,too,adv,,core
+320,451,aml,"frequent, occurring often",adj,,core
+321,452,draw,"there, yonder",adv,,core
+322,454,car,car,noun-m,,core
+323,455,rhiant,parent,noun-m,,core
+324,456,ffaith,fact,noun-f,,core
+325,457,go,"pretty, bit",adv,,core
+326,458,posib,possible,adj,,core
+327,459,gwobr,"prize, reward",noun-f,,core
+328,460,swyddfa,"office, place of business",noun-f,,core
+329,461,dathlu,to celebrate,verb,,core
+330,462,coch,"red, ginger",adj,,core
+331,463,cytuno,"to agree, to concur",verb,,core
+332,464,heno,"tonight, this evening",adv,,core
+333,465,golwg,"sight, vision",noun-mf,,core
+334,466,cyfieithu,"to translate, to interpret",verb,,core
+335,468,chwarae,"play, activity of playing",noun-m,,core
+336,469,anfon,to send,verb,,core
+337,471,ariannol,financial,adj,,core
+338,474,defnydd,"material, stuff",noun-m,,core
+339,475,môr,"sea, ocean",noun-m,,core
+340,476,capel,chapel,noun-m,,core
+341,478,penodol,"specific, particular",adj,,core
+342,479,diddorol,interesting,adj,,core
+343,480,pwynt,point,noun-m,,core
+344,483,athro,"teacher, professor",noun-m,,core
+345,485,erthygl,article,noun-f,,core
+346,487,disgybl,"pupil, school student",noun-m,,core
+347,489,ymddangos,to appear,verb,,core
+348,490,myfyriwr,student,noun-m,,core
+349,491,proses,process,noun-mf,,core
+350,492,cysylltiad,connection,noun-m,,core
+351,493,bwyta,to eat,verb,,core
+352,494,gwrando,to listen,verb,,core
+353,495,system,system,noun-f,,core
+354,496,corff,body,noun-m,,core
+355,497,safle,"site, location",noun-m,,core
+356,499,llafur,"labour, work",noun-m,,core
+357,500,effaith,effect,noun-mf,,core
+358,501,byth,"never, ever",adv,,core
+359,502,cyhoeddus,"public, open",adj,,core
+360,503,hawdd,easy,adj,,core
+361,504,sefyllfa,"situation, position",noun-f,,core
+362,506,cynnar,"early, prompt",adj,,core
+363,507,adeilad,building,noun-m,,core
+364,508,rhedeg,to run,verb,,core
+365,509,cân,song,noun-f,,core
+366,510,darparu,to provide,verb,,core
+367,511,mynydd,"mountain, large hill",noun-m,,core
+368,512,staff,staff,noun-m,,core
+369,513,llyfrgell,library,noun-f,,core
+370,514,cau,"to close, to shut",verb,,core
+371,515,rheoli,"to control, to manage",verb,,core
+372,516,gweithredu,"to act, to operate",verb,,core
+373,517,llygad,eye,noun-mf,,core
+374,518,côr,"choir, choral society",noun-m,,core
+375,519,casglu,"to gather, to collect",verb,,core
+376,521,rownd,"round, circuit",noun-f,,core
+377,522,sefyll,"to stand, to stop",verb,,core
+378,523,safon,standard,noun-f,,core
+379,525,archif,archive,noun-mf,,core
+380,526,methu,"to fail, to be unable",verb,,core
+381,527,gwreiddiol,original,adj,,core
+382,528,adeiladu,to build,verb,,core
+383,530,hapus,happy,adj,,core
+384,531,uchel,"high, loud",adj,,core
+385,532,llwyddo,"to succeed, to prosper",verb,,core
+386,533,lefel,level,noun-mf,,core
+387,534,Cymro,Welshman,noun-m,,core
+388,535,gwir,truth,noun-m,,core
+389,536,gwylio,"to watch, to keep watch over",verb,,core
+390,539,union,"straight, direct",adj,,core
+391,540,teithio,to travel,verb,,core
+392,541,adran,"department, division",noun-f,,core
+393,542,manylyn,"detail, particular",noun-m,,core
+394,543,criw,"crew, company",noun-m,,core
+395,545,lan,"up, upwards",adv,south,core
+396,546,coleg,college,noun-m,,core
+397,547,perthynas,"relation, relative",noun-mf,,core
+398,548,fferm,farm,noun-f,,core
+399,549,comisiynydd,commissioner,noun-m,,core
+400,550,tyfu,"to grow, to increase",verb,,core
+401,551,eleni,this year,adv,,core
+402,552,unigolyn,"individual, person",noun-m,,core
+403,554,undeb,"union, unity",noun-mf,,core
+404,555,paratoi,to prepare,verb,,core
+405,556,cwm,"valley, dale",noun-m,,core
+406,557,tref,town,noun-f,,core
+407,559,gweithgaredd,"activity, pursuit",noun-m,,core
+408,560,ychwanegu,"to add, to augment",verb,,core
+409,563,cerdd,"poem, poetry",noun-f,,core
+410,564,siaradwr,speaker,noun-m,,core
+411,566,cof,memory,noun-m,,core
+412,567,sefydliad,"institution, foundation",noun-m,,core
+413,570,eistedd,to sit,verb,,core
+414,571,ffilm,"film, movie",noun-f,,core
+415,572,tudalen,page,noun-mf,,core
+416,574,dadl,"argument, debate",noun-f,,core
+417,575,map,map,noun-m,,core
+418,576,achos,"case, cause",noun-m,,core
+419,580,cost,"cost, expense",noun-f,,core
+420,581,neis,nice,adj,,core
+421,582,casgliad,"collection, gathering",noun-m,,core
+422,584,cyfrannu,to contribute,verb,,core
+423,585,du,black,adj,,core
+424,586,cwci,cookie,noun-m,,core
+425,587,adeg,"time, occasion",noun-f,,core
+426,588,ysbyty,hospital,noun-m,,core
+427,589,personol,personal,adj,,core
+428,590,sesiwn,session,noun-mf,,core
+429,591,sioe,show,noun-f,,core
+430,592,awdur,"author, writer",noun-m,,core
+431,593,diwydiant,industry,noun-m,,core
+432,594,dull,"method, manner",noun-m,,core
+433,595,marchnad,market,noun-f,,core
+434,596,gwraig,"wife, woman",noun-f,,core
+435,597,cyfeirio,"to direct, to point",verb,,core
+436,598,noson,"night, evening",noun-f,,core
+437,599,trafodaeth,"discussion, negotiation",noun-f,,core
+438,600,ynghyd,together,adv,,core
+439,601,gwella,"to improve, to get better",verb,,core
+440,602,cefnogaeth,"support, encouragement",noun-f,,core
+441,603,awgrymu,"to suggest, to hint",verb,,core
+442,605,cyffredin,"common, ordinary",adj,,core
+443,606,blynyddol,"yearly, annual",adj,,core
+444,608,sôn,"to talk, to mention",verb,,core
+445,610,radio,radio,noun-mf,,core
+446,611,sant,saint,noun-m,,core
+447,613,Sadwrn,"Saturday, Saturn",noun-m,,core
+448,614,croeso,welcome,noun-m,,core
+449,615,sicr,"sure, certain",adj,,core
+450,616,gwerth,"value, worth",noun-m,,core
+451,617,uwch,"higher, senior",adj,,core
+452,618,dinas,city,noun-f,,core
+453,619,llythyr,"letter, epistle",noun-m,,core
+454,622,chwerthin,to laugh,verb,,core
+455,623,gwerthu,to sell,verb,,core
+456,624,cystadleuaeth,"competition, contest",noun-f,,core
+457,625,lladd,"to kill, to murder",verb,,core
+458,628,gardd,garden,noun-f,,core
+459,629,nod,"mark, brand",noun-mf,,core
+460,631,gwleidyddol,political,adj,,core
+461,632,enwedig,"especial, particular",adj,,core
+462,633,hoff,"favourite, dear",adj,,core
+463,634,penderfyniad,"decision, verdict",noun-m,,core
+464,635,cryf,strong,adj,,core
+465,636,iâ,ice,noun-m,,core
+466,637,cywir,"correct, true",adj,,core
+467,638,hollol,"whole, complete",adj,,core
+468,639,arweinydd,"leader, conductor",noun-m,,core
+469,640,cynulleidfa,"audience, congregation",noun-f,,core
+470,641,weithiau,sometimes,adv,,core
+471,642,eang,"wide, broad",adj,,core
+472,643,brawd,brother,noun-m,,core
+473,644,galw,"call, demand",noun-m,,core
+474,645,ennill,"gain, profit",noun-m,,core
+475,646,hwnnw,that,adj,,core
+476,647,cenedl,nation,noun-f,,core
+477,649,blaenorol,"previous, prior",adj,,core
+478,650,gradd,"degree, grade",noun-f,,core
+479,651,pwys,"weight, burden",noun-m,,core
+480,652,hyfryd,"lovely, delightful",adj,,core
+481,653,bai,blame,noun-m,,core
+482,654,pwnc,"subject, topic",noun-m,,core
+483,655,naturiol,natural,adj,,core
+484,656,tymor,"season, term",noun-m,,core
+485,657,braf,"fine, excellent",adj,,core
+486,658,gorfod,"to have to, must",verb,,core
+487,659,coed,"wood, forest",noun-m,,core
+488,660,cofnodi,"to record, to document",verb,,core
+489,661,lleoliad,"location, position",noun-m,,core
+490,662,darganfod,to discover,verb,,core
+491,663,dwyieithog,bilingual,adj,,core
+492,664,nôl,to fetch,verb,,core
+493,665,llwybr,"path, route",noun-m,,core
+494,666,stryd,street,noun-f,,core
+495,667,cais,"application, attempt",noun-m,,core
+496,668,fideo,video,noun-m,,core
+497,669,prysur,busy,adj,,core
+498,671,sylwad,comment,noun-m,,core
+499,672,cylch,"circle, ring",noun-m,,core
+500,673,oedolyn,adult,noun-m,,core
+501,674,ymgyrch,campaign,noun-mf,,core
+502,676,cynllunio,"to plan, to design",verb,,core
+503,677,pentref,village,noun-m,,core
+504,678,ffurflen,form,noun-f,,core
+505,679,sgìl,"skill, talent",noun-mf,,core
+506,680,pecyn,"packet, package",noun-m,,core
+507,681,bardd,"poet, bard",noun-m,,core
+508,682,ystafell,"room, chamber",noun-f,,core
+509,683,adnodd,resource,noun-m,,core
+510,684,gyrru,"to drive, to compel",verb,,core
+511,687,gŵr,"husband, man",noun-m,,core
+512,688,ffurf,"form, shape",noun-f,,core
+513,689,rygbi,rugby,noun-m,,core
+514,690,clir,clear,adj,,core
+515,691,ofn,fear,noun-m,,core
+516,692,wynebu,to face,verb,,core
+517,694,calon,heart,noun-f,,core
+518,695,cerdyn,card,noun-m,,core
+519,697,gweddill,"surplus, remnant",noun-m,,core
+520,698,categori,category,noun-m,,core
+521,699,anifail,"animal, beast",noun-m,,core
+522,700,nofel,novel,noun-f,,core
+523,701,cariad,"love, charity",noun-mf,,core
+524,702,afon,river,noun-f,,core
+525,703,tewi,to be silent,verb,,core
+526,704,senedd,"senate, parliament",noun-f,,core
+527,705,diwylliant,culture,noun-m,,core
+528,706,adref,"homewards, home",adv,,core
+529,707,gwely,bed,noun-m,,core
+530,708,cyw,"chick, young",noun-m,,core
+531,709,posibl,"possible, feasible",adj,,core
+532,710,cwpan,cup,noun-mf,,core
+533,711,taliad,"payment, fee",noun-m,,core
+534,712,eisoes,already,adv,,core
+535,713,diogelu,"to protect, to preserve",verb,,core
+536,714,natur,nature,noun-f,,core
+537,715,hyrwyddo,"to promote, to further",verb,,core
+538,716,dysgwr,learner,noun-m,,core
+539,717,geni,to be born,verb,,core
+540,718,tiwtor,tutor,noun-m,,core
+541,719,byw,"alive, living",adj,,core
+542,720,wyneb,"face, surface",noun-m,,core
+543,722,cyflym,"fast, quick",adj,,core
+544,723,sail,"base, basis",noun-f,,core
+545,724,agwedd,"attitude, manner",noun-f,,core
+546,725,profi,"to prove, to try",verb,,core
+547,726,licio,to like,verb,north,core
+548,727,datblygiad,development,noun-m,,core
+549,728,dewis,"to choose, to select",verb,,core
+550,729,ar-lein,online,adj,,core
+551,730,coginio,to cook,verb,,core
+552,731,ymdrech,"effort, attempt",noun-mf,,core
+553,732,deunydd,"material, stuff",noun-m,,core
+554,733,Mawrth,"March, Tuesday",noun-m,,core
+555,734,safbwynt,"viewpoint, standpoint",noun-m,,core
+556,735,mynnu,to insist,verb,,core
+557,736,cyfraniad,"contribution, donation",noun-m,,core
+558,738,cyfrifol,"responsible, accountable",adj,,core
+559,741,lliw,"colour, paint",noun-m,,core
+560,743,dogfen,"document, article of faith",noun-f,,core
+561,744,llwyr,"complete, entire",adj,,core
+562,745,datganiad,"declaration, statement",noun-m,,core
+563,746,presennol,"present, current",adj,,core
+564,747,cyflawni,"to accomplish, to fulfil",verb,,core
+565,748,sylweddoli,to realise,verb,,core
+566,749,ci,dog,noun-m,,core
+567,750,elfen,"element, factor",noun-f,,core
+568,751,caled,"hard, difficult",adj,,core
+569,752,awdurdod,authority,noun-m,,core
+570,753,llwyfan,"stage, platform",noun-mf,,core
+571,754,hyfforddiant,"training, instruction",noun-m,,core
+572,755,cynnyrch,"produce, product",noun-m,,core
+573,756,bro,"region, country",noun-f,,core
+574,757,ffarmwr,farmer,noun-m,,core
+575,758,tawel,"quiet, silent",adj,,core
+576,759,gwers,lesson,noun-f,,core
+577,760,tystiolaeth,"evidence, proof",noun-f,,core
+578,761,treulio,"to spend, to wear away",verb,,core
+579,763,disgrifio,"to describe, to portray",verb,,core
+580,764,cytundeb,"agreement, concord",noun-m,,core
+581,765,sylwi,"to observe, to notice",verb,,core
+582,766,eithaf,"quite, rather",adv,,core
+583,767,haf,summer,noun-m,,core
+584,768,trefn,"order, sequence",noun-f,,core
+585,771,rhyngwladol,international,adj,,core
+586,773,gwisgo,"to get dressed, to dress",verb,,core
+587,775,mân,"fine, small",adj,,core
+588,776,disgwyl,"to expect, to wait",verb,,core
+589,777,caniatáu,"to allow, to permit",verb,,core
+590,778,help,"help, aid",noun-m,,core
+591,779,hynod,"remarkable, notable",adj,,core
+592,780,astudiaeth,"study, investigation",noun-f,,core
+593,781,milltir,mile,noun-f,,core
+594,782,ymwneud,"to be to do, to pertain",verb,,core
+595,783,dychwelyd,"to return, to turn back",verb,,core
+596,784,cyfan,"whole, complete",adj,,core
+597,785,rheol,"rule, regulation",noun-f,,core
+598,786,technoleg,technology,noun-f,,core
+599,787,gwahaniaeth,"difference, disagreement",noun-m,,core
+600,788,astudio,to study,verb,,core
+601,789,heddlu,"police, police force",noun-m,,core
+602,790,defnyddiol,"useful, helpful",adj,,core
+603,791,bachgen,"boy, lad",noun-m,south,core
+604,792,gorffen,"to end, to finish",verb,,core
+605,793,llwyddiant,"success, achievement",noun-m,,core
+606,794,arglwydd,"lord, baron",noun-m,,core
+607,795,etholiad,election,noun-m,,core
+608,796,cychwyn,"beginning, start",noun-m,,core
+609,797,poeni,to worry,verb,,core
+610,799,perthnasol,"relevant, pertinent",adj,,core
+611,800,canllaw,"guideline, guidance",noun-mf,,core
+612,801,oes,"age, period",noun-f,,core
+613,802,cinio,"lunch, dinner",noun-m,,core
+614,803,drama,"drama, play",noun-f,,core
+615,805,hybu,"to promote, to further",verb,,core
+616,806,holi,"to ask, to question",verb,,core
+617,807,cyfrol,"volume, tome",noun-f,,core
+618,808,cylchgrawn,"magazine, periodical",noun-m,,core
+619,809,adrodd,"to tell, to narrate",verb,,core
+620,810,carreg,stone,noun-f,,core
+621,811,ŵyr,"grandson, grandchild",noun-m,,core
+622,812,ysgrifennydd,secretary,noun-m,,core
+623,813,esbonio,"to explain, to expound",verb,,core
+624,814,cymharu,"to compare, to liken",verb,,core
+625,815,punt,pound,noun-f,,core
+626,816,trin,"to treat, to manage",verb,,core
+627,817,cofrestru,to register,verb,,core
+628,819,ychwanegol,"additional, extra",adj,,core
+629,822,llinell,"line, stripe",noun-f,,core
+630,823,Ewropeaidd,European,adj,,core
+631,824,cyfrifoldeb,responsibility,noun-m,,core
+632,825,gorllewin,"west, West Wales",noun-m,,core
+633,826,gwasg,press,noun-mf,,core
+634,827,poblogaidd,popular,adj,,core
+635,828,cynnwys,"to contain, to include",verb,,core
+636,829,term,term,noun-m,,core
+637,830,sain,"sound, audio",noun-f,,core
+638,831,brenin,"king, monarch",noun-m,,core
+639,832,babi,baby,noun-mf,,core
+640,833,holl,all,adj,,core
+641,834,pobman,everywhere,noun-m,,core
+642,835,allweddol,"key, crucial",adj,,core
+643,836,sector,sector,noun-mf,,core
+644,837,glas,blue,adj,,core
+645,839,eitem,item,noun-f,,core
+646,840,ffonio,to phone,verb,,core
+647,841,dyddiad,date,noun-m,,core
+648,842,parti,party,noun-m,,core
+649,843,menyw,"woman, female",noun-f,,core
+650,845,gwirionedd,"truth, verity",noun-m,,core
+651,846,isod,below,adv,,core
+652,848,syml,simple,adj,,core
+653,849,boi,"guy, lad",noun-m,,core
+654,850,crefydd,religion,noun-f,,core
+655,851,ynys,"island, piece of land",noun-f,,core
+656,852,cynyddu,"to increase, to rise",verb,,core
+657,853,awyr,"air, sky",noun-mf,,core
+658,854,teg,"fair, just",adj,,core
+659,856,syth,straight,adj,,core
+660,857,canfod,"to perceive, to see",verb,,core
+661,858,deddf,"law, act",noun-f,,core
+662,859,prynhawn,"afternoon, evening",noun-m,,core
+663,860,rôl,role,noun-f,,core
+664,861,anghofio,to forget,verb,,core
+665,862,llenwi,"to fill, to fill up",verb,,core
+666,863,cyfraith,law,noun-f,,core
+667,864,cynnig,"to offer, to bid",verb,,core
+668,865,caru,"to love, to like",verb,,core
+669,866,cloch,bell,noun-f,,core
+670,867,perfformiad,performance,noun-m,,core
+671,868,gobaith,hope,noun-m,,core
+672,869,chwaith,either,adv,,core
+673,871,cynhadledd,conference,noun-f,,core
+674,872,sylweddol,"substantial, tangible",adj,,core
+675,873,canolbwyntio,"to focus, to concentrate",verb,,core
+676,875,castell,castle,noun-m,,core
+677,877,perffaith,"perfect, flawless",adj,,core
+678,878,haul,sun,noun-m,,core
+679,879,prin,"rare, uncommon",adj,,core
+680,880,llunio,"to form, to shape",verb,,core
+681,881,diffyg,"lack, want",noun-m,,core
+682,882,hanesyddol,"historical, historic",adj,,core
+683,883,tybed,"I wonder, is that so?",adv,,core
+684,885,ieithyddol,linguistic,adj,,core
+685,886,gweithiwr,"worker, employee",noun-m,,core
+686,887,bath,"stamp, coin",noun-m,,core
+687,888,masnach,"trade, commerce",noun-f,,core
+688,889,bathu,"to mint, to strike",verb,,core
+689,890,llwyddiannus,successful,adj,,core
+690,891,trafod,"to discuss, to negotiate",verb,,core
+691,892,mynediad,"entrance, admission",noun-m,,core
+692,894,diweddaraf,latest,adj,,core
+693,896,gwasanaethu,"to serve, to be in service",verb,,core
+694,898,clicio,to click,verb,,core
+695,899,amrywiaeth,"variety, diversity",noun-mf,,core
+696,900,wal,wall,noun-f,,core
+697,902,te,tea,noun-m,,core
+698,903,ystyr,"meaning, sense",noun-mf,,core
+699,904,pris,price,noun-m,,core
+700,906,tasg,"task, job",noun-f,,core
+701,907,cacen,cake,noun-f,,core
+702,908,ymweliad,visit,noun-m,,core
+703,909,bychan,"small, little",adj,,core
+704,910,hŷn,older,adj,,core
+705,911,mab,"son, boy",noun-m,,core
+706,912,band,band,noun-m,,core
+707,914,canu,"to sing, to intone",verb,,core
+708,915,angenrheidiol,necessary,adj,,core
+709,916,copi,"copy, copybook",noun-m,,core
+710,917,dwyrain,"east, the Orient",noun-m,,core
+711,918,bwriad,"purpose, intention",noun-m,,core
+712,919,chwarae,to play,verb,,core
+713,920,rhyfedd,"strange, odd",adj,,core
+714,921,dilledyn,garment,noun-m,,core
+715,922,economi,economy,noun-mf,,core
+716,923,post,"post, mail",noun-m,,core
+717,924,cydnabod,to acknowledge,verb,,core
+718,925,cyson,"constant, regular",adj,,core
+719,926,rhyddhau,"to free, to liberate",verb,,core
+720,927,cysgu,to sleep,verb,,core
+721,928,darlledu,to broadcast,verb,,core
+722,930,croesawu,to welcome,verb,,core
+723,931,uchod,above,adv,,core
+724,932,gafael,"grip, hold",noun-mf,,core
+725,933,perfformio,to perform,verb,,core
+726,934,seren,star,noun-f,,core
+727,935,cynhyrchydd,producer,noun-m,,core
+728,936,arwydd,"sign, signal",noun-mf,,core
+729,937,fersiwn,version,noun-mf,,core
+730,938,eidion,"beef, ox",noun-m,,core
+731,939,dafad,sheep,noun-f,,core
+732,942,theatr,theatre,noun-f,,core
+733,943,claf,"patient, invalid",noun-m,,core
+734,944,cychwyn,"to begin, to start",verb,,core
+735,945,anffodus,"unfortunate, unlucky",adj,,core
+736,946,ymarfer,"exercise, practice",noun-mf,,core
+737,947,cario,to carry,verb,,core
+738,948,cyfarwydd,familiar,adj,,core
+739,949,pêl,"ball, sphere",noun-f,,core
+740,950,llys,"court, hall",noun-m,,core
+741,951,cae,"field, enclosure",noun-m,,core
+742,953,magu,"to rear, to raise",verb,,core
+743,954,her,challenge,noun-f,,core
+744,956,enwog,"famous, renowned",adj,,core
+745,957,cadair,chair,noun-f,,core
+746,958,màs,mass,noun-m,,core
+747,959,achub,"to save, to rescue",verb,,core
+748,960,bryn,hill,noun-m,,core
+749,961,gwynt,"wind, breath",noun-m,,core
+750,962,bodoli,"to exist, to realise",verb,,core
+751,964,teyrnas,kingdom,noun-f,,core
+752,965,cynradd,"primary, first-degree",adj,,core
+753,966,ansawdd,"quality, condition",noun-mf,,core
+754,967,ennill,"to win, to earn",verb,,core
+755,968,amddiffyn,"to protect, to defend",verb,,core
+756,969,chwaer,sister,noun-f,,core
+757,970,thema,theme,noun-f,,core
+758,971,ceffyl,"horse, mount",noun-m,,core
+759,973,eiliad,second,noun-mf,,core
+760,974,marwolaeth,death,noun-f,,core
+761,975,unigryw,unique,adj,,core
+762,976,swyddogol,official,adj,,core
+763,977,to,roof,noun-m,,core
+764,978,agored,"open, candid",adj,,core
+765,979,Gwener,"Friday, Venus",noun-f,,core
+766,980,llu,"host, throng",noun-m,,core
+767,981,teledu,television,noun-m,,core
+768,982,addas,"suitable, apt",adj,,core
+769,985,buan,"fast, swift",adj,,core
+770,986,aderyn,bird,noun-m,,core
+771,987,sydyn,"sudden, quick",adj,,core
+772,989,oedfa,church service,noun-f,,core
+773,990,arfer,"to use, to be used to",verb,,core
+774,991,gwyn,white,adj,,core
+775,992,cyfaill,friend,noun-m,,core
+776,993,priodas,"marriage, wedding",noun-f,,core
+777,994,brwydr,battle,noun-f,,core
+778,995,annibynnol,independent,adj,,core
+779,996,marw,"dead, lifeless",adj,,core
+780,997,pwll,"pool, pond",noun-m,,core
+781,998,banc,bank,noun-m,,core
+782,1000,economaidd,economic,adj,,core
+783,1001,teimlad,"feeling, touch",noun-m,,core
+784,1002,gorfodi,"to compel, to oblige",verb,,core
+785,1003,dibynnu,"to depend, to rely",verb,,core
+786,1004,heol,"road, carriageway",noun-f,,core
+787,1005,tramor,"foreign, abroad",adj,,core
+788,1007,pennod,"chapter, episode",noun-f,,core
+789,1008,ateb,"to answer, to respond",verb,,core
+790,1009,pleidleisio,to vote,verb,,core
+791,1010,gwas,"servant, lad",noun-m,,core
+792,1011,trosglwyddo,"to transfer, to convey",verb,,core
+793,1012,egwyddor,principle,noun-f,,core
+794,1013,elusen,charity,noun-f,,core
+795,1014,maint,"size, extent",noun-m,,core
+796,1015,gwyllt,"wild, untamed",adj,,core
+797,1016,tafarn,"pub, tavern",noun-mf,,core
+798,1017,nodwedd,"characteristic, attribute",noun-f,,core
+799,1018,cyfrif,"to count, to reckon",verb,,core
+800,1019,ymwybodol,"conscious, aware",adj,,core
+801,1020,neidio,to jump,verb,,core
+802,1021,effeithio,"to have an effect, to be effective",verb,,core
+803,1022,comisiwn,commission,noun-m,,core
+804,1023,partner,partner,noun-m,,core
+805,1024,sgwrsio,"to chat, to converse",verb,,core
+806,1025,cystadlu,"to compete, to vie",verb,,core
+807,1028,cyfrifiad,"census, calculation",noun-m,,core
+808,1031,bocs,box,noun-m,,core
+809,1032,lles,"benefit, profit",noun-m,,core
+810,1033,llenyddiaeth,literature,noun-f,,core
+811,1034,sylfaen,"foundation, base",noun-mf,,core
+812,1035,amod,"condition, term",noun-mf,,core
+813,1036,adolygiad,review,noun-m,,core
+814,1037,osgoi,"to avoid, to dodge",verb,,core
+815,1038,cyflwr,"condition, state",noun-m,,core
+816,1039,bwrw,"to cast, to throw",verb,,core
+817,1040,pŵer,power,noun-m,,core
+818,1041,cynnydd,"growth, rise",noun-m,,core
+819,1044,ffeindio,to find,verb,,core
+820,1045,glo,"coal, charcoal",noun-m,,core
+821,1046,archwilio,"to examine, to explore",verb,,core
+822,1047,cynrychioli,"to represent, to present",verb,,core
+823,1048,byr,"short, brief",adj,,core
+824,1049,penwythnos,weekend,noun-m,,core
+825,1050,chwith,"left, wrong",adj,,core
+826,1051,trên,train,noun-m,,core
+827,1052,cymeriad,"character, reputation",noun-m,,core
+828,1053,teitl,title,noun-m,,core
+829,1054,urdd,order,noun-f,,core
+830,1055,bodlon,"satisfied, content",adj,,core
+831,1056,blwydd,year,noun-f,,core
+832,1057,Pasg,"Easter, Passover",noun-m,,core
+833,1058,dolen,"link, connection",noun-f,,core
+834,1059,prawf,"proof, evidence",noun-m,,core
+835,1060,ddoe,yesterday,adv,,core
+836,1061,Mercher,"Wednesday, Mercury",noun-m,,core
+837,1063,dwyn,"to steal, to take",verb,,core
+838,1064,ffin,"boundary, bound",noun-f,,core
+839,1065,cadeirydd,"chairman, chairperson",noun-m,,core
+840,1066,denu,to attract,verb,,core
+841,1067,gwallt,hair,noun-m,,core
+842,1069,cegin,kitchen,noun-f,,core
+843,1070,ffydd,faith,noun-f,,core
+844,1071,pen-blwydd,"birthday, anniversary",noun-m,,core
+845,1072,traeth,"beach, coast",noun-m,,core
+846,1073,dylanwad,influence,noun-m,,core
+847,1074,brawddeg,sentence,noun-f,,core
+848,1076,ffurfio,"to form, to shape",verb,,core
+849,1077,gwladwriaeth,state,noun-f,,core
+850,1078,ffi,fee,noun-f,,core
+851,1079,recordio,to record,verb,,core
+852,1080,ras,race,noun-f,,core
+853,1081,cwr,"corner, point",noun-m,,core
+854,1083,cefnogwr,supporter,noun-m,,core
+855,1084,golygfa,"view, scene",noun-f,,core
+856,1085,amgueddfa,museum,noun-f,,core
+857,1086,coffi,coffee,noun-m,,core
+858,1087,cyfrif,"account, record",noun-m,,core
+859,1088,canlynol,"following, succeeding",adj,,core
+860,1089,blodyn,flower,noun-m,,core
+861,1090,diflannu,to disappear,verb,,core
+862,1091,diddymu,"to abolish, to repeal",verb,,core
+863,1093,dewin,wizard,noun-m,,core
+864,1094,manwl,"detailed, precise",adj,,core
+865,1095,cyflog,"wage, salary",noun-mf,,core
+866,1096,cwsmer,customer,noun-m,,core
+867,1097,ysbryd,"spirit, soul",noun-m,,core
+868,1098,blas,"taste, flavour",noun-m,,core
+869,1099,gaeaf,winter,noun-m,,core
+870,1100,gormod,too much,noun-m,,core
+871,1101,ffôn,phone,noun-m,,core
+872,1102,llong,"ship, vessel",noun-f,,core
+873,1103,cyfieithiad,translation,noun-m,,core
+874,1104,gwe,web,noun-f,,core
+875,1105,dymuno,to wish,verb,,core
+876,1106,darpariaeth,"preparation, provision",noun-f,,core
+877,1107,daear,"earth, soil",noun-f,,core
+878,1108,cyswllt,"connection, union",noun-m,,core
+879,1109,mesur,"measure, bill",noun-m,,core
+880,1111,neuadd,hall,noun-f,,core
+881,1112,fory,tomorrow,adv,,core
+882,1113,traddodiad,tradition,noun-m,,core
+883,1114,milwr,soldier,noun-m,,core
+884,1115,dyffryn,"valley, dale",noun-m,,core
+885,1116,hanfodol,"essential, crucial",adj,,core
+886,1117,tebygol,"likely, probable",adj,,core
+887,1118,hogyn,"boy, lad",noun-m,north,core
+888,1120,trwydded,licence,noun-f,,core
+889,1121,mynychu,"to attend, to visit",verb,,core
+890,1122,cydymffurfio,to comply,verb,,core
+891,1123,unigol,"individual, singular",adj,,core
+892,1124,defnyddiwr,user,noun-m,,core
+893,1125,addysgu,to educate,verb,,core
+894,1126,perygl,"danger, peril",noun-m,,core
+895,1127,rhyddid,"freedom, liberty",noun-m,,core
+896,1129,gwerin,"people, populace",noun-f,,core
+897,1130,enfawr,huge,adj,,core
+898,1131,gweledigaeth,vision,noun-f,,core
+899,1132,budd,"benefit, profit",noun-m,,core
+900,1133,difyr,"pleasant, agreeable",adj,,core
+901,1134,llyfu,to lick,verb,,core
+902,1135,gofalus,careful,adj,,core
+903,1136,oer,cold,adj,,core
+904,1137,patrwm,"pattern, design",noun-m,,core
+905,1138,atal,"to prevent, to stop",verb,,core
+906,1139,dyletswydd,"duty, obligation",noun-f,,core
+907,1140,effeithiol,effective,adj,,core
+908,1142,stopio,to stop,verb,,core
+909,1143,ledled,throughout,adv,,core
+910,1144,cyffrous,"exciting, excited",adj,,core
+911,1145,coes,leg,noun-mf,,core
+912,1146,menter,"initiative, venture",noun-f,,core
+913,1147,rhif,number,noun-m,,core
+914,1148,siopa,to shop,verb,,core
+915,1149,bws,bus,noun-m,,core
+916,1150,croes,cross,noun-f,,core
+917,1151,cronfa,"fund, reservoir",noun-f,,core
+918,1152,celf,art,noun-f,,core
+919,1153,pleidlais,"vote, ballot",noun-f,,core
+920,1154,arweiniad,"guidance, leadership",noun-m,,core
+921,1155,taflu,"to throw, to throw away",verb,,core
+922,1156,strategaeth,strategy,noun-f,,core
+923,1157,traddodiadol,"traditional, customary",adj,,core
+924,1158,gwaelod,"bottom, dregs",noun-m,,core
+925,1159,archebu,"to order, to request",verb,,core
+926,1160,newidiad,change,noun-m,,core
+927,1162,gwenu,to smile,verb,,core
+928,1164,galwad,"call, request",noun-mf,,core
+929,1165,pont,bridge,noun-f,,core
+930,1166,peiriant,"machine, engine",noun-m,,core
+931,1167,uniongyrchol,direct,adj,,core
+932,1168,cwblhau,to complete,verb,,core
+933,1169,ymwelwr,visitor,noun-m,,core
+934,1170,lansio,to launch,verb,,core
+935,1171,helaeth,"broad, wide",adj,,core
+936,1172,achosi,to cause,verb,,core
+937,1173,statws,status,noun-m,,core
+938,1175,sgrin,screen,noun-f,,core
+939,1176,ofnadwy,"terrible, frightful",adj,,core
+940,1178,penrhyn,"cape, promontory",noun-m,,core
+941,1179,digidol,digital,adj,,core
+942,1180,hyfforddi,"to train, to coach",verb,,core
+943,1181,treth,"tax, duty",noun-f,,core
+944,1182,gorffennol,"past, past tense",noun-m,,core
+945,1183,dot,dot,noun-mf,,core
+946,1185,trafferth,"trouble, bother",noun-f,,core
+947,1186,terfynol,"final, terminal",adj,,core
+948,1187,anrheg,"gift, present",noun-f,,core
+949,1188,mwyafrif,majority,noun-m,,core
+950,1189,cyhoedd,public,noun-m,,core
+951,1190,gyrfa,career,noun-f,,core
+952,1191,rheolwr,manager,noun-m,,core
+953,1192,galluogi,to enable,verb,,core
+954,1193,distawrwydd,"silence, quiet",noun-m,,core
+955,1194,araf,slow,adj,,core
+956,1196,cyfleu,to convey,verb,,core
+957,1197,parc,park,noun-m,,core
+958,1198,golau,light,noun-m,,core
+959,1199,iach,"healthy, well",adj,,core
+960,1200,awyddus,"eager, keen",adj,,core
+961,1201,priodol,"appropriate, proper",adj,,core
+962,1202,amrywiol,various,adj,,core
+963,1204,gwaed,blood,noun-m,,core
+964,1206,anhygoel,incredible,adj,,core
+965,1207,bwriadu,"to intend, to mean to",verb,,core
+966,1209,cyllid,"finance, funding",noun-m,,core
+967,1210,cyfathrebu,to communicate,verb,,core
+968,1211,eiddo,property,noun-m,,core
+969,1214,pwrpas,purpose,noun-m,,core
+970,1215,pêl-droed,"football, soccer",noun-mf,,core
+971,1216,isel,low,adj,,core
+972,1217,diogel,"safe, secure",adj,,core
+973,1218,creadigol,"creative, imaginative",adj,,core
+974,1219,tywyll,dark,adj,,core
+975,1220,trysor,treasure,noun-m,,core
+976,1221,cwyn,complaint,noun-mf,,core
+977,1222,gartref,"at home, homewards",adv,,core
+978,1223,cath,cat,noun-f,,core
+979,1224,unedig,united,adj,,core
+980,1225,degawd,decade,noun-mf,,core
+981,1227,cyflwyniad,"presentation, introduction",noun-m,,core
+982,1228,cyfreithiol,"legal, judicial",adj,,core
+983,1230,pendant,"definite, positive",adj,,core
+984,1231,cyngerdd,concert,noun-mf,,core
+985,1232,bag,bag,noun-m,,core
+986,1233,gwarchod,"to guard, to babysit",verb,,core
+987,1234,cyfieithydd,"translator, interpreter",noun-m,,core
+988,1235,hydref,autumn,noun-m,,core
+989,1236,gêr,"gear, tackle",noun-mf,,core
+990,1237,pasio,to pass to go past,verb,,core
+991,1238,cynghori,"to advise, to counsel",verb,,core
+992,1239,preifatrwydd,privacy,noun-m,,core
+993,1240,triniaeth,treatment,noun-f,,core
+994,1241,pwyso,"to weigh, to find the weight of",verb,,core
+995,1242,llynedd,last year,adv,,core
+996,1243,taid,grandfather,noun-m,,core
+997,1244,pensiwn,pension,noun-m,,core
+998,1245,delio,to deal,verb,,core
+999,1246,braidd,"rather, somewhat",adv,,core
+1000,1247,poblogaeth,population,noun-f,,core
