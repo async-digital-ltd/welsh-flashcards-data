@@ -4,7 +4,7 @@
 
 The licence lets anyone copy, share and adapt these files, for any purpose, including commercial use, on two conditions:
 
-- **Give credit.** Credit Async Digital Ltd and the three sources below, link to the licence, and say if you changed anything.
+- **Give credit.** Credit Async Digital Ltd, Yr Amliadur and Wiktionary, link to the licence, and say if you changed anything.
 - **Share alike.** If you publish something made from these files, publish it under CC BY-SA 4.0 too.
 
 The word list was compiled by Async Digital Ltd in 2026 from the sources below.

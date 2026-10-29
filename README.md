@@ -4,6 +4,8 @@ This is a list of the 1,000 most common Welsh nouns, verbs, adjectives and adver
 
 It is the word list behind Cardiau Cymraeg, a Welsh flashcard app for iPhone, and it is published here so that anyone can use it, free, under an open licence.
 
+The list has not yet been checked by a fluent Welsh speaker, so corrections are welcome (see below). The ranks have gaps, because some words in the frequency list, such as function words, were left out.
+
 ## For teachers and learners
 
 - **Open `Deck.csv` in any spreadsheet**, such as Numbers, Excel or Google Sheets. The words are in order of frequency, so the first rows are the words you will meet most often.
