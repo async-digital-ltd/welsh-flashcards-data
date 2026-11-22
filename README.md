@@ -4,7 +4,7 @@ This is a list of the 1,000 most common Welsh nouns, verbs, adjectives and adver
 
 It is the word list behind Cardiau Cymraeg, a Welsh flashcard app for iPhone, and it is published here so that anyone can use it, free, under an open licence.
 
-The app is not on the App Store yet. To get one email when it is, join the waitlist at [cardiau-cymraeg.async-digital.com](https://cardiau-cymraeg.async-digital.com/#waitlist) ([yn Gymraeg](https://cardiau-cymraeg.async-digital.com/index.cy.html#waitlist)).
+The app is [on the App Store](https://apps.apple.com/app/id6827489045), free to download. More about it is at [cardiau-cymraeg.async-digital.com](https://cardiau-cymraeg.async-digital.com/) ([yn Gymraeg](https://cardiau-cymraeg.async-digital.com/index.cy.html)).
 
 The list has not yet been checked by a fluent Welsh speaker, so corrections are welcome (see below). The ranks have gaps, because some words in the frequency list, such as function words, were left out.
 
